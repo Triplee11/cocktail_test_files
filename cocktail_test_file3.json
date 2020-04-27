@@ -1,0 +1,17 @@
+[
+  {
+    "imageFile": "cocktail01",
+    "drinkName": "Screwdriver",   
+    "description": "Easy to make with minimal ingredients. If you like vodka and orange juice, that's all there is to it.",
+    "ingredients": [ ["Vodka", "Liquor", "1.5oz"] , ["Orange Juice", "Essential", "6oz"] , ["Ice", "Garnish", "3 cubes"] ],
+    "instructions": "Combine vodka and orange juice in highball glass and stir. Add ice"
+  },
+  {
+    "imageFile": "cocktail02",
+    "drinkName": "Cranberry Martini",   
+    "description": "Martini with a sour twist.",
+    "ingredients": [ ["Vodka", "Liquor", "1.5oz"] , ["Cranberry Juice", "Essential", "3oz"] ,
+       ["Orange Liqueur", "Liquor", "1.5oz"] , ["Dry Vermouth", "Liquor", "1.5oz"] , ["Cranberries", "Garnish", "1/4 cup"] ],
+    "instructions": "Combine vodka, orange liqueur, vermouth, cranberry juice, and ice in a cocktail shaker. Shake vigorously to chill. Serve in martini glasses, and garnish with cranberries."
+  }
+]
