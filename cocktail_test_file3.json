@@ -13,8 +13,7 @@
     "ingredients": [ ["Vodka", "Liquor", "1.5oz"] , ["Cranberry Juice", "Essential", "3oz"] ,
        ["Orange Liqueur", "Liquor", "1.5oz"] , ["Dry Vermouth", "Liquor", "1.5oz"] , ["Cranberries", "Garnish", "1/4 cup"] ],
     "instructions": "Combine vodka, orange liqueur, vermouth, cranberry juice, and ice in a cocktail shaker. Shake vigorously to chill. Serve in martini glasses, and garnish with cranberries."
-  }
-],
+  },
   {
     "imageFile": "cocktail03",
     "drinkName": "Strawberry Daquiri",   
